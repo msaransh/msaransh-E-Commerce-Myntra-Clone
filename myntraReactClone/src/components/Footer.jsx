@@ -41,7 +41,7 @@ const Footer = () => {
       <hr />
 
       <div className="copyright">
-        © 2023 www.myntra.com. All rights reserved.
+        © 2024 Saransh www.myntra.com. All rights reserved.
       </div>
     </footer>
   );
